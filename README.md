@@ -19,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marksuckerberg&show_icons=true&theme=dark&locale=en" alt="marksuckerberg" /></p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71ML9I)
