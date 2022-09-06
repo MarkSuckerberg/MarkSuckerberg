@@ -1,6 +1,6 @@
 Hi, I'm Mark. I'm a coder who tries to do too much at once.
 
-I work with many languages decently, such as C#, DM(<a href="https://secure.byond.com/">BYOND's</a> Dream Maker), MySQL, Java, and Python.
+I work with many languages decently, such as C#, DM(<a href="https://secure.byond.com/">BYOND's</a> Dream Maker), MySQL, Java, Java/Typescript, and Python.
 
 I also enjoy spriting low-res stuff occasionally, but don't expect good quality in a short time.
 
