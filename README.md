@@ -1,13 +1,11 @@
 Hi, I'm Mark. I'm a coder who tries to do too much at once.
 
-I work with many languages, including C#, DM (<a href="https://secure.byond.com/">BYOND's</a> Dream Maker Language), MySQL, Java, Javascript/Typescript, and Python.
-
-I also enjoy spriting pixel art on occassion, but don't expect good quality in a short time.
+I work with many languages, including C#, DM (<a href="https://secure.byond.com/">BYOND's</a> Dream Maker Language), HTML5+CSS, Java, Javascript/Typescript, MySQL, and Python.
 
 I enjoy playing <a href="https://spacestation13.com">Space Station 13</a> (specifically <a href="https://shiptest.net">Shiptest</a>), a niche game written in DM that runs on the BYOND engine, which incidentally is one of the open-source projects I contribute to the most.
 
-**My websites:**
-- <https://suckerberg.gay>
+Web design, hosting and Systems administration are also in my wheelhouse, here's a list of a few of the sites I've designed and set up:
+- <https://suckerberg.gay> (my main site)
 - <https://www.stellers.gay>
 - <https://shiptest.net>
 - <https://txtumblr.com>
