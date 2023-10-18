@@ -1,16 +1,18 @@
 Hi, I'm Mark. I'm a coder who tries to do too much at once.
 
-I work with many languages decently, such as C#, DM(<a href="https://secure.byond.com/">BYOND's</a> Dream Maker), MySQL, Java, Javascript/Typescript, and Python.
+I work with many languages, including C#, DM (<a href="https://secure.byond.com/">BYOND's</a> Dream Maker Language), MySQL, Java, Javascript/Typescript, and Python.
 
-I also enjoy spriting low-res stuff occasionally, but don't expect good quality in a short time.
+I also enjoy spriting pixel art on occassion, but don't expect good quality in a short time.
 
-I enjoy playing <a href="https://spacestation13.com">Space Station 13</a>, a niche game written in DM that runs on the BYOND engine, which incidentally is one of the open-source projects I contribute to the most.
+I enjoy playing <a href="https://spacestation13.com">Space Station 13</a> (specifically <a href="https://shiptest.net">Shiptest</a>), a niche game written in DM that runs on the BYOND engine, which incidentally is one of the open-source projects I contribute to the most.
 
-I don't usually do any kind of contract/paid work unless it interests me personally. If you've got a good idea that you want done, feel free to float it by me by contacting me on Discord at **@Mark Suckerberg#6855**.
+**My websites:**
+- <https://suckerberg.gay>
+- <https://www.stellers.gay>
+- <https://shiptest.net>
+- <https://txtumblr.com>
 
-**My website: <https://suckerberg.gay/>**
-
-<h3 align="left">Languages and stuff I know decently:</h3>
+<h3 align="left">Languages, frameworks, software, etc.:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://secure.byond.com/" target="_blank"> <img src="https://secure.byond.com/rsc/dev64ba.png" alt="unity" width="40" height="40"/>  </a>
