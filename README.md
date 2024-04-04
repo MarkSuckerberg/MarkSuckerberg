@@ -6,7 +6,7 @@ I enjoy playing <a href="https://spacestation13.com">Space Station 13</a> (speci
 
 Web design, hosting and Systems administration are also in my wheelhouse, here's a list of a few of the sites I've designed and set up:
 - <https://suckerberg.gay> (my main site)
-- <https://www.stellers.gay>
+- <https://stellers.gay>
 - <https://shiptest.net>
 - <https://txtumblr.com>
 
@@ -34,3 +34,5 @@ Web design, hosting and Systems administration are also in my wheelhouse, here's
 <h3 align="left">Shameless plug:</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71ML9I)
+
+Follow me on [stellers.gay](https://social.stellers.gay/mark)!
